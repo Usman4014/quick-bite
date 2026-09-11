@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quick Bite</string>
+
+    <string name="facebook_app_id">1370488758553512</string>
+
+    <string name="fb_login_protocol_scheme">fb1370488758553512</string>
+
+    <string name="facebook_client_token">8c16c664bd9a970f99bf183a4d0184cd</string>
+
+</resources>
