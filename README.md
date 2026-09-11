@@ -10,9 +10,9 @@ Quick Bite is a full-featured food delivery application built with **Flutter and
 
 ### 🔐 Authentication
 
-| Welcome | Phone Login | Email Login |
+| Onboarding | Login Methods | Email Login |
 |---|---|---|
-| ![Welcome](screenshots/login.png) | ![Phone Login](screenshots/email-login.png) | ![Email Login](screenshots/onboarding.png) |
+| ![Onboarding](screenshots/onboarding.png) | ![Login Methods](screenshots/login.png) | ![Email Login](screenshots/email-login.png) |
 
 ### 🛍️ Customer App
 
