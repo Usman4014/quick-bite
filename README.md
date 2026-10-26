@@ -18,7 +18,7 @@ Quick Bite is a full-featured food delivery application built with **Flutter and
 
 | Home | Product Details | Cart |
 |---|---|---|
-| ![Home](screenshots/home.png) | ![Product Details](screenshots/product-details.png) | ![Cart](screenshots/cart.png) |
+| ![Home](screenshots/home.png) | ![Product Details](screenshots/product-details.png) | ![Menu](screenshots/cart.png) |
 
 ### 📦 Order Management
 
